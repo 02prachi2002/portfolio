@@ -1,0 +1,723 @@
+/HTML CODE/
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY PORTFOLIO</title>
+    <link rel="stylesheet" href="portfolio.css" />
+</head>
+<body>
+   
+    <div class="ornament1">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+        <img src="Ornament.png">
+    </div>
+    <div class="ornament2">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+        <img src="Ornament.png">
+    </div>
+    <div class="container">
+        <div class="left">
+            <div class="content">
+               
+                <div class="text2">Hello, I am <strong>Prachi Varshney</strong><br><p style="color: slateblue;">Web Developer</p></div>
+                <div class="maintext">
+
+As a developer my superpowershappens behind the scenes to make
+ a website look great,<br> work fast and perform well with seamless user experience </div>
+                 <button class="button button1">HIRE ME</button>
+                <button class="button button2">VIEW MORE</button>
+            </div>
+           
+            
+        </div>
+        <div class="right">
+            <div class="nav">
+                <div class="home">Home</div>
+                <div class="about">About Me</div>
+                <div class="project">My Project</div>
+                <div class="contacts">Contacts</div>
+                <div class="pic">
+                <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+
+                <img src="pic.png"></div>
+            </div>
+        </div>
+    </div>
+    <div class="page2"><div class="text4">Frontend Developer<br>UI/UX Designer</div>
+<div class="text5">Hardworking student ready to utilize my skills and passion to further the mission of the company<br> , Bringing forth a positive attidtude and willingness and motivation to lear new programs
+ <div class="text6">5+</div>
+               <div class="text7">Project completed</div></div></div>
+
+    <div class="square">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+ <img src="Ellipse 1.png">
+    </div>
+    <div class="ornament4">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+        <img src="Ornament.png">
+    </div>
+    <div class="pic2">
+                <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+
+                <img src="image.png"></div>
+                
+ <div class="button3">
+                    <button type="submit" value="submit">
+                    GET IN TOUCH -->
+                </button>
+                </div>
+
+
+
+ <section class="skills" id="skills">
+      <h2 class="skill-header">My Top Skills</h2>
+
+      <div class="skills-wrapper">
+        <div class="first-set animate__animated animate__pulse">
+            <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="html.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="c++.jpg"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="css.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+        </div>
+
+        <div class="second-set animate__animated animate__pulse">
+            <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="javascript.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="webdesign.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+          <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+          <img
+            src="python.png"
+            alt=""
+            loading="lazy"
+            class="icon icon-card"
+          />
+        </div>
+      </div>
+    </section>
+              
+             <section class="projects" id="projects">
+      <h2 class="projects-title">My Recent Projects</h2>
+      <div class="projects-container ">
+        <div class="project-container project-card zoom">
+          <img
+            src="iphone.png"
+            alt="iphone app design"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">App Design</h3>
+          <p class="project-details">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas
+            ratione vel inventore labore commodi modi quos culpa aut saepe!
+            Alias!
+          </p>
+          <a href="#" target="_blank" class="project-link">Check it Out</a>
+        </div>
+        <div class="project-container project-card zoom">
+          <img
+            src="android.png"
+            alt="android app design"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">App Design</h3>
+          <p class="project-details">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas
+            ratione vel inventore labore commodi modi quos culpa aut saepe!
+            Alias!
+          </p>
+          <a href="#" target="_blank" class="project-link">Check it Out</a>
+        </div>
+        
+        <div class="project-container project-card zoom">
+          <img
+            src="glassmor.png"
+            alt="greeny-earth"
+            loading="lazy"
+            class="project-pic"
+          />
+          <h3 class="project-title">Web Design</h3>
+          <p class="project-details">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas
+            ratione vel inventore labore commodi modi quos culpa aut saepe!
+            Alias!
+          </p>
+          <a href="#" target="_blank" class="project-link">Check it Out</a>
+        </div>
+      </div>
+    </section>
+    </section>
+                <div class="contact"> Contact Me</div>
+               <div class="form">
+                    <form id="form">
+ 
+                <!-- Details -->
+                <div class="form-control">
+                    <label for="name" id="label-name">
+                        Name
+                    </label>
+         
+                    <!-- Input Type Text -->
+                    <input type="text"
+                           id="name"
+                           placeholder="Enter your name" />
+                </div>
+          
+                <div class="form-control">
+                    <label for="email" id="label-email">
+                        Email
+                    </label>
+         
+                    <!-- Input Type Email-->
+                    <input type="email"
+                           id="email"
+                           placeholder="Enter your email" />
+                </div>
+                <div class="form-control">
+                    <label for="comment">
+                        Any comments or suggestions
+                    </label>
+         
+                    <!-- multi-line text input control -->
+                    <textarea name="comment" id="comment"
+                        placeholder="Enter your comment here">
+                    </textarea>
+                </div>
+          
+                <!-- Multi-line Text Input Control -->
+                <button type="submit" value="submit">
+                    SEND MESSAGE
+                </button>
+                
+    <div class="square1">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+ <img src="Ellipse 2.png" height="60%" width="40%">
+    </div>
+    <div class="ornament3">
+         <a href="C:\Users\PRACHI VARSHNEY\Desktop"></a>
+        <img src="Ornament.png">
+    </div>
+            </form>
+               </div>
+               <div class="socials">
+      <a href="https://twitter.com/twitter" target="_blank"
+        ><img
+          src="Twitter.png"
+          alt="Twitter"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="https://www.instagram.com" target="_blank"
+        ><img
+          src="Instagram.png"
+          alt="Instagram"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="https://www.linkedin.com/" target="_blank"
+        ><img
+          src="Linkedin.png"
+          alt="Linkedin"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="https://github.com/" target="_blank"
+        ><img src="Facebook.png" alt="Github" class="socicon"
+      /></a>
+  </div>
+  <div class ="footer">BACK TO TOP<br><br><br><br><br><br><br><br>@2022 Prachi All Right Reserved
+                  </div>
+              
+
+</body>
+</html>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/CSS CODE/
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html
+{
+  font-size: 20px;
+  background-color: white;
+}
+.nav
+{
+  padding-right: 4vw;
+  padding-top: 3vh;
+  gap: 5vw;
+  display: flex;
+  justify-content: end;
+
+}
+.container
+{
+  display: flex;
+  height: 100vh;
+
+}
+.left{
+  width: 45%;
+  margin-left: 5vw;
+  margin-right: 11vw;
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 35vh;
+ 
+
+}
+.right
+{
+  width: 55%;
+  background-color: #e5e5e5;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+
+
+}
+
+
+.text3
+{
+  font-size: 1rem;
+  margin-bottom: 30vw;
+}
+
+.text2{
+  font-size: 2rem;
+  justify-content: center;
+  padding-top: 20vh;
+
+
+}
+
+.maintext{
+  color: grey;
+  position: relative;
+  top: 8%;
+  font-size: 1rem;
+}
+.maintext, .button{
+  font-size: 0.8rem;
+  justify-content: center;
+
+}
+.ornament1{
+  position: absolute;
+  left: 95%;
+  top: 15%;
+
+}
+.ornament2{
+  position: absolute;
+  left: 42%;
+  top: 70%;
+
+}
+.ornament4
+{
+  position: absolute;
+  left: 20%;
+  top: 110%;
+}
+.pic{
+position: absolute;
+display: flex;
+flex-direction: column;
+left: 60%;
+top: 43%;
+height: 150%;
+  width: 40%;
+}
+.page2
+{
+ display: flex;
+justify-content: center; 
+align-items: center;
+}
+.text4
+{
+  
+position: absolute;
+width: 58%;
+height: 135%;
+left: 55%;
+top: 120%;
+
+font-family: Roboto;
+font-style: normal;
+font-size: 2.0rem;
+
+color: #7D7B81;
+}
+.text5
+{
+   
+position: absolute;
+width: 40%;
+height: 140%;
+left: 55%;
+top: 138%;
+font-family: Roboto;
+font-style: normal;
+font-size: 1rem;
+color: #1F1C1C;
+}
+.text7{
+
+position: absolute;
+width: 40%;
+height: 120%;
+left: 32%;
+top: 18%;
+font-family: Roboto;
+font-style: normal;
+font-size: 1rem;
+color: grey;
+}
+.text6{
+  display: flex;
+position: absolute;
+width: 40%;
+height: 140%;
+left: 10%;
+top: 15%;
+font-family: Roboto;
+font-style: normal;
+font-size: 3rem;
+color: #772ec0
+}
+.square
+{
+    display: flex;
+flex-direction: column;
+position: absolute;
+width: 30%;
+height: 150%;
+left: 0%
+
+}
+
+.pic2
+{
+  position: absolute;
+display: flex;
+flex-direction: column;
+left: 8%;
+top: 125%;
+height: 20%;
+  width: 30%;
+}
+
+
+.form{
+position: absolute;
+top: 450%;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+/* Styling the Form (Color, Padding, Shadow) */
+.form {
+  background-color: #fff;
+  height: 50%;
+  width: 50%;
+  padding: 30px 20px;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+ 
+}
+
+/* Styling form-control Class */
+.form-control {
+  text-align: left;
+  margin-bottom: 1%;
+}
+
+/* Styling form-control Label */
+.form-control label {
+  display: block;
+  margin-bottom: 1%;
+}
+
+/* Styling form-control input,
+select, textarea */
+.form-control input,
+.form-control select,
+.form-control textarea {
+  border: 1px solid #777;
+  background-color: #f1f0f5;
+  border-radius: 2px;
+  font-family: inherit;
+  padding: 15px;
+  display: block;
+  width: 96%;
+}
+
+.square1
+{
+  position: absolute;
+width: 100%;
+height: 240%;
+left: 160%;
+top: -80%;
+}
+.ornament3
+{
+  position: absolute;
+  left: 165%;
+  top: 20%;
+}
+.contact
+{
+  display: flex;
+flex-direction: column;
+position: absolute;
+left: 45%;
+top: 400%;
+color: #1F1C1C;
+text-decoration: underline;
+  -webkit-text-decoration-color: #772ec0;  
+  text-decoration-color: #772ec0;
+   font-size: 2rem;
+  padding: 32px 0;
+  justify-content: center;
+}
+.projects {
+  background-color: var(--bg-color);
+  padding: 10px 0;
+  margin-top: 1rem;
+   top: 285%;
+  left: 4%;
+  position: absolute;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #1F1C1C;
+}
+
+
+.project-pic {
+  width: 65%;
+  height: 70%;
+}
+
+.projects-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.projects-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.project-container {
+  text-align: center;
+  width: 20rem;
+  padding: 2rem;
+}
+.project-container p {
+  padding: 2rem;
+}
+
+.project-title {
+  margin-bottom: var(--bottom-margin);
+}
+
+.project-details {
+  margin-bottom: var(--bottom-margin);
+}
+
+.project-card {
+  background-color: whitesmoke;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--primary-shadow);
+  padding: 10px;
+  margin: 10px;
+}
+
+
+
+
+
+
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 50%;
+}
+
+.socicon {
+  width: 3rem;
+  height: 3rem;
+}
+.footer {
+            position: absolute;
+            padding: 10px 10px 0px 10px;
+            top: 520%;
+            width: 100%;
+            height: 30%;
+            background: #f1f0f5;
+            text-align: center;
+            font-family: roboto;
+
+        }
+        .skills {
+  background-color: var(--bg-color);
+  padding: 32px 0;
+  margin-top: 2rem;
+   top: 180%;
+  left: 20%;
+  position: absolute;
+display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.skill-header {
+  margin-bottom: 2.1rem;
+  font-size: 1.5rem;
+color: #1F1C1C;
+text-decoration: underline;
+  -webkit-text-decoration-color: #772ec0;  
+  text-decoration-color: #772ec0;
+ text-align: center;
+  margin-bottom: 1rem;
+}
+
+.skills-wrapper img {
+  padding: 1rem;
+}
+
+.icon {
+  width: 11rem;
+  height: 11rem;
+}
+.icon-card {
+  background-color: whitesmoke;
+  border-radius: 11px;
+  box-shadow: 2px 3px 10px;
+  padding: 20px;
+  margin: 30px;
+}
+ 
+.zoom {
+  transition: transform .7s;
+  margin: 15px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
+
+.zoom:hover {
+  transform: scale(1.2);
+}
+
+.button3
+{
+  top: 170%;
+  left: 60%;
+position: absolute;
+width: 18%;
+height: 70%;
+text-align: center;
+
+}
+.button {
+  background-color: #772EC0; 
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+ 
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.button1, .button2, .button3
+{
+  padding: 8px 10px;
+}
+
+.button1
+{
+  width: 30%;
+height: 40%;
+position: relative;
+top: 16%;
+text-align: center;
+}
+.button2{
+   width: 30%;
+height: 33%;
+background-color: white;
+color: black;
+border: 2px solid black;
+top: 2%;
+left: 38%;
+position: relative;
+text-align: center;
+
+}
+button{
+  background-color: blueviolet;
+  color: white;
+  border: 1px solid #777;
+  border-radius: 29px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+  width: 96%;
+  height: 10%;
+  margin-top: 15px;
+  margin-bottom: 2px;
+}
